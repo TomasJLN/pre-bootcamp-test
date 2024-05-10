@@ -1,8 +1,11 @@
 ---
 title: Diferencias entre Editor de Texto, Editor de Código e IDE
+sidebar_position: 7
+toc_min_heading_level: 2
+toc_max_heading_level: 3
 ---
-En esta sección, vamos a explorar las diferencias entre editores de texto, editores de código y entornos de desarrollo integrados (IDEs). Cada una tiene características y usos específicos que las hacen adecuadas para diferentes tareas.
 
+En esta sección, vamos a explorar las diferencias entre editores de texto, editores de código y entornos de desarrollo integrados (IDEs). Cada una tiene características y usos específicos que las hacen adecuadas para diferentes tareas.
 
 ## **Editor de texto**
 
@@ -16,7 +19,6 @@ Un [editor de texto](https://es.wikipedia.org/wiki/Editor_de_texto) es un progra
 - Es ligero y consume pocos recursos del sistema.
 - Ejemplos: Bloc de notas, Notepad++, TextEdit.
 
-
 ## **Editor de código**
 
 Un [editor de código](https://es.wikipedia.org/wiki/Editor_de_c%C3%B3digo_fuente) es similar a un editor de texto, pero está especialmente diseñado para la programación. Ofrece características como resaltado de sintaxis, autocompletado de código y a veces la capacidad de compilar y depurar código directamente desde el editor.
@@ -28,7 +30,6 @@ Un [editor de código](https://es.wikipedia.org/wiki/Editor_de_c%C3%B3digo_fuent
 - Puede soportar múltiples lenguajes de programación.
 - Es más robusto que un editor de texto, pero sigue siendo ligero.
 - Ejemplos: [Visual Studio Code](https://code.visualstudio.com/), [Atom](https://atom-editor.cc/), [Sublime Text](https://www.sublimetext.com/).
-
 
 ## **IDE (Entorno de Desarrollo Integrado)**
 
@@ -43,7 +44,6 @@ Un [IDE](https://es.wikipedia.org/wiki/Entorno_de_desarrollo_integrado) o entorn
 - Consume más recursos del sistema que un editor de texto o un editor de código.
 - Ejemplos: [Visual Studio](https://visualstudio.microsoft.com/es/), [PyCharm](https://www.jetbrains.com/pycharm/), [WebStorm](https://www.jetbrains.com/webstorm/), [IntelliJ IDEA](https://www.jetbrains.com/idea/).
 
-
 | Característica            | Editor de texto                        | Editor de código                   | IDE                                       |
 | ------------------------- | -------------------------------------- | ---------------------------------- | ----------------------------------------- |
 | Funciones                 | Básicas                                | Avanzadas                          | Completas                                 |
@@ -54,5 +54,3 @@ Un [IDE](https://es.wikipedia.org/wiki/Entorno_de_desarrollo_integrado) o entorn
 | Ejemplos                  | Bloc de notas, Notepad++, Sublime Text | Visual Studio Code, Atom, Brackets | PyCharm, WebStorm, IntelliJ IDEA, Eclipse |
 
 > ⓘ Para nuestro Bootcamp aconsejamos utilizar el editor de código **Visual Studio Code**, ya que será el que mejor se adapte a nuestras necesidades. [Visual Studio Code](https://code.visualstudio.com/) es un editor de código muy popular y versátil. Ofrece excelentes herramientas para JavaScript, incluyendo autocompletado, depuración, integración [Git](https://git-scm.com/), una amplia gama de [extensiones](https://marketplace.visualstudio.com/VSCode) y una comunidad muy activa.
-
-

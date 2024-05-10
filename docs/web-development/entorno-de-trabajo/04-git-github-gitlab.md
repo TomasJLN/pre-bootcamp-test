@@ -1,5 +1,8 @@
 ---
 title: Git & GitHub
+sidebar_position: 4
+toc_min_heading_level: 2
+toc_max_heading_level: 3
 ---
 
 En esta sección, aprenderemos sobre [Git](https://git-scm.com/), una herramienta indispensable para cualquier desarrollador. Exploraremos cómo Git puede ayudarte a gestionar versiones de nuestros proyectos y evitar la pérdida de trabajo. Además, veremos cómo GitHub y GitLab complementan a Git, proporcionando un espacio para almacenar y compartir nuestro código de manera segura.

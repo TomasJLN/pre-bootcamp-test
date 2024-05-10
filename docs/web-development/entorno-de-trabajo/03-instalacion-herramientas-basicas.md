@@ -1,5 +1,8 @@
 ---
 title: Instalación de las herramientas básicas
+sidebar_position: 3
+toc_min_heading_level: 2
+toc_max_heading_level: 3
 ---
 
 En esta sección nos enfocaremos en la instalación de parte de las herramientas básicas que utilizaremos durante el bootcamp. Si bien, haremos uso de más herramientas en el camino, comenzaremos por las básicas y que, en un principio, no deberemos tener ningún problema al instalarlas si seguimos los pasos.
